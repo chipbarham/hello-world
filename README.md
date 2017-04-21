@@ -1,2 +1,2 @@
 # hello-world
-This is my beginning repository, where I will store my first projects.
+This is my beginning foray into the world of Git!
